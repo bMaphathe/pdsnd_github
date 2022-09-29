@@ -13,16 +13,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 # global variables for available months and days
 months = ["january", "february", "march", "april", "may", "june", "all"]
-days = [
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday",
-    "saturday",
-    "sunday",
-    "all",
-]
+days = [ 'monday','tuesday', 'wednesday', 'thursday', 'friday', 'saturday','sunday', 'all']
 
 def choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers.
