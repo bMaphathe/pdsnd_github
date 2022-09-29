@@ -1,4 +1,8 @@
-# Created by Bokang Mapahthe
+# Udacity-programming-for-Data-Science-using-Python-Nanodegree
+        Welcome to the Data-Science-using-Python
+<img src="Images/Programming.jpg" width="1000">
+### Created by: Bokang Mapahthe
+
 This repository contains projects and practice set for 
 Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -11,14 +15,14 @@ Explore US Bikeshare Data
 ### Description
 In this project, Python is used to explore data related to bike share systems
 for three major cities in the United States—Chicago, New York City, and Washington.
-The code imports the data and answers interesting questions about it by computing descriptive statistics. The script takes in raw input to create an interactive experience in the terminal to present these statistics.
+The code imports the data and answers interesting questions about it by computing descriptive statistics. 
+The script takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-'chicago.csv'
 
-'new_york_city.csv'
-
-'washington.csv'
+* 'chicago.csv'
+* 'new_york_city.csv'
+* 'washington.csv'
 
 ### Credits
 Pandas Resource:
@@ -38,3 +42,6 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 ### Project Submission
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+### Links 
+[Please Check My Project Submission via this url] https://github.com/bMaphathe/pdsnd_github.git. 
