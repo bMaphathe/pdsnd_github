@@ -12,16 +12,16 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'washington': 'washington.csv'}
 
 # global variables for available months and days
-months = ["january", "february", "march", "april", "may", "june", "all"]
+months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 days = [
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday",
-    "saturday",
-    "sunday",
-    "all",
+    'monday',
+    'tuesday',
+    'wednesday',
+    'thursday',
+    'friday',
+    'saturday',
+    'sunday',
+    'all',
 ]
 
 def choice(prompt, choices=('y', 'n')):
