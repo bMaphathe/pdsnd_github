@@ -1,7 +1,7 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
         Welcome to the Data-Science-using-Python
 <img src="Images/Programming.jpg" width="1000">
-### Created by Bokang Mapahthe
+### Created by: Bokang Mapahthe
 
 This repository contains projects and practice set for 
 Udacity Programming For Data Science Using Python Nanodegree.
